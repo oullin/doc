@@ -1,6 +1,6 @@
 ### Ollin's Docs
 
-:sparkles: Every time you need guidance or want to dig into how things work on my web, the **oullin/docs** repository has you covered.
+:sparkles: Every time you need guidance or want to dig into how things work on my site, the **oullin/docs** repository has you covered.
 
 :mag_right: Inside **oullin/docs**, you’ll find:
 
